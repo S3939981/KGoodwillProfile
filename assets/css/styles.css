@@ -75,6 +75,12 @@ img {
 	  background: #eef1ea;
 	  padding: 10px;
 	}
+img2 {
+		  float: left;
+		  width: 40%;
+		  background: #eef1ea;
+		  padding: 10px;
+		}
 
 /*Navigation Bar*/
 	li {
